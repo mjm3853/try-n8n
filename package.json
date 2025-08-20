@@ -1,0 +1,24 @@
+{
+  "name": "try-n8n",
+  "version": "1.0.0",
+  "description": "Trying out n8n",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start",
+    "dev": "n8n start --tunnel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjm3853/try-n8n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjm3853/try-n8n/issues"
+  },
+  "homepage": "https://github.com/mjm3853/try-n8n#readme",
+  "dependencies": {
+    "n8n": "^1.106.3"
+  }
+}
